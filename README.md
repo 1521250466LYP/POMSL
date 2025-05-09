@@ -3,12 +3,13 @@
 
 ##### Requirement
 
-numpy                     1.23.5
-pandas                    2.2.2
-python                    3.9.19
-scipy                     1.13.1
-torch                     2.2.1+cu121              
-scikit-learn              1.5.1
+
+- numpy                     1.23.5
+- pandas                    2.2.2
+- python                    3.9.19
+- scipy                     1.13.1
+- torch                     2.2.1+cu121              
+- scikit-learn              1.5.1
 
 
 ##### Dataset
